@@ -29,7 +29,6 @@ public class FragmentPhoto extends FragmentPost {
 
 
         Send(Url + "photos" + "/" + 5);
-        //Send("http://placehold.it/600/f66b97");
 
         return v;
     }

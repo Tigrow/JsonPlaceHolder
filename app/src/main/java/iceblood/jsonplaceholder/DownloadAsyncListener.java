@@ -11,10 +11,6 @@ public class DownloadAsyncListener extends AsyncTask<String, Object, Object> {
 
     public DownloadListener downloadListener;
 
-    /*public DownloadAsyncListener(DownloadListener listener) // Мне нужно, чтобы класс мог реализовывать интерфейс,
-    {
-        downloadListener = listener;
-    }*/
 
     public void setDownloadListener(DownloadListener listener) // а мог и не реализовывать.
     {

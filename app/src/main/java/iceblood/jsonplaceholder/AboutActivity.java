@@ -10,9 +10,6 @@ import android.widget.Button;
 import android.widget.EditText;
 import android.widget.TextView;
 
-/**
- * Created by Titan'ik on 01.11.2017.
- */
 
 public class AboutActivity extends AppCompatActivity {
     @Override
